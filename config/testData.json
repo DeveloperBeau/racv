@@ -1,0 +1,302 @@
+[
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Sale",
+      "id": 2015666373,
+      "advertiser": {
+        "type": "Agency",
+        "id": 345,
+        "name": "Dingle Partners",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/345/logo_345.png",
+        "preferredColourHex": "#071c2d",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/345/banner_345.png",
+        "contacts": [
+          {
+            "name": "Anton Wongtrakun",
+            "photoUrl": "https://images.domain.com.au/img/345/contact_666166.jpeg?mod=191002-132905"
+          }
+        ]
+      },
+      "priceDetails": {
+        "displayPrice": "$2,700,000 - $2,900,000"
+      },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015666373_1_1_190920_075310-w4134-h2756"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015666373_2_1_190920_075310-w4134-h2756"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015666373_3_1_190920_075310-w4134-h2756"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015666373_4_1_190920_075310-w4134-h2756"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015666373_5_1_190920_075310-w4134-h2756"
+        }
+      ],
+      "propertyDetails": {
+        "state": "VIC",
+        "features": ["Ensuite", "Bath", "Study"],
+        "propertyType": "House",
+        "allPropertyTypes": ["House"],
+        "bathrooms": 3.0,
+        "bedrooms": 4.0,
+        "carspaces": 5,
+        "unitNumber": "",
+        "streetNumber": "388",
+        "street": "Spencer Street",
+        "area": "Stonnington",
+        "region": "Melbourne Region",
+        "suburb": "MELBOURNE",
+        "postcode": "3000",
+        "displayableAddress": "388 Spencer Street, Melbourne",
+        "latitude": -37.81765,
+        "longitude": 144.953415
+      },
+      "headline": "Rare Elegance, Sophistication and Style in this most beautifully appointed sub-penthouse with outstanding views",
+      "summaryDescription": "<b></b><br />Incredible volume and space combine to create an environment where every room features windows and a true sense of quality. With unmatched style and substance this is a lifestyle opportunity that offers a way of living not available in any...",
+      "hasFloorplan": true,
+      "hasVideo": true,
+      "labels": [],
+      "inspectionSchedule": {
+        "byAppointment": true,
+        "recurring": false,
+        "times": []
+      },
+      "listingSlug": "388-spencer-street-melbourne-vic-3000-2015666373"
+    }
+  },
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "NewHomes",
+      "id": 2015523162,
+      "advertiser": {
+        "type": "Agency",
+        "id": 11919,
+        "name": "Eview Group - Australia",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/11919/logo_11919.jpeg",
+        "preferredColourHex": "#010626",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/11919/banner_11919.jpeg",
+        "contacts": [
+          {
+            "name": "Jeremy van der Beek",
+            "photoUrl": "https://images.domain.com.au/img/11919/contact_932346.JPG?mod=190930-132108"
+          }
+        ]
+      },
+      "priceDetails": {
+        "price": 641000,
+        "priceFrom": 641000,
+        "priceTo": 641000,
+        "displayPrice": "$641,000"
+      },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015401713_5_1_190626_073033-w3000-h2002"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015523162_2_1_190814_045906-w960-h640"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015523162_3_1_190814_045906-w960-h640"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015401713_4_1_190626_073033-w2582-h1935"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015523162_5_1_190814_045906-w8256-h5504"
+        }
+      ],
+      "propertyDetails": {
+        "state": "VIC",
+        "features": ["SwimmingPool", "Heating", "DoubleGlazedWindows"],
+        "propertyType": "House",
+        "allPropertyTypes": ["House"],
+        "bathrooms": 1.0,
+        "bedrooms": 2.0,
+        "carspaces": 1,
+        "unitNumber": "131",
+        "streetNumber": "555",
+        "street": "St. Kilda Road",
+        "area": "Stonnington",
+        "region": "Melbourne Region",
+        "suburb": "MELBOURNE",
+        "postcode": "3000",
+        "displayableAddress": "131/555 St. Kilda Road, Melbourne",
+        "latitude": -37.8469849,
+        "longitude": 144.980621,
+        "buildingArea": 64.0
+      },
+      "headline": "Fully Furnished - Ideal Location",
+      "summaryDescription": "<b></b><br />Please register with agent for open attendance.\r\n\r\nAn upmarket residential development on St Kilda Road comprising 332 luxury apartments, Parque has been designed by Fender Katsalidis architects and features 2 iconic glass towers. The towe...",
+      "hasFloorplan": true,
+      "hasVideo": false,
+      "labels": ["New homes"],
+      "inspectionSchedule": {
+        "byAppointment": false,
+        "recurring": false,
+        "times": []
+      },
+      "listingSlug": "131-555-st-kilda-road-melbourne-vic-3000-2015523162"
+    }
+  },
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Sale",
+      "id": 2015436388,
+      "advertiser": {
+        "type": "Agency",
+        "id": 2795,
+        "name": "Pagan Real Estate",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/2795/logo_2795.GIF",
+        "preferredColourHex": "#031f4e",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/2795/banner_2795.GIF",
+        "contacts": [
+          {
+            "name": "Andrew Lean",
+            "photoUrl": "https://images.domain.com.au/img/2795/contact_1247876.jpeg?mod=191001-103312"
+          }
+        ]
+      },
+      "priceDetails": {
+        "displayPrice": "$38,000"
+      },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015436388_1_1_190711_055307-w1200-h1200"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015436388_2_1_190711_055307-w2459-h1200"
+        }
+      ],
+      "propertyDetails": {
+        "state": "VIC",
+        "features": ["SecureParking"],
+        "propertyType": "House",
+        "allPropertyTypes": ["House"],
+        "bathrooms": 1.0,
+        "bedrooms": 1.0,
+        "carspaces": 1,
+        "unitNumber": "756",
+        "streetNumber": "58",
+        "street": "Franklin Street",
+        "area": "Stonnington",
+        "region": "Melbourne Region",
+        "suburb": "MELBOURNE",
+        "postcode": "3000",
+        "displayableAddress": "756/58 Franklin Street, Melbourne",
+        "latitude": -37.8074036,
+        "longitude": 144.9608
+      },
+      "headline": "CAR PARK FOR SALE",
+      "summaryDescription": "<b></b><br />If you are looking for your own private parking space for your city pad/work place, or alternatively a great return on investment, then look no further than this perfectly positioned car space. With an excellent CBD location close to RMIT,...",
+      "hasFloorplan": false,
+      "hasVideo": false,
+      "labels": [],
+      "inspectionSchedule": {
+        "byAppointment": true,
+        "recurring": false,
+        "times": []
+      },
+      "listingSlug": "756-58-franklin-street-melbourne-vic-3000-2015436388"
+    }
+  },
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Sale",
+      "id": 2015292508,
+      "advertiser": {
+        "type": "Agency",
+        "id": 29532,
+        "name": "DPG Property Group",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/29532/logo_29532.jpeg",
+        "preferredColourHex": "#000000",
+        "contacts": [
+          {
+            "name": "Alrick Fung",
+            "photoUrl": "https://images.domain.com.au/img/29532/contact_1567666.jpeg?mod=191001-100209"
+          }
+        ]
+      },
+      "priceDetails": {
+        "displayPrice": "$1,500,000"
+      },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015292508_1_1_190521_014713-w800-h600"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015292508_2_1_190521_014713-w800-h600"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015292508_3_1_190521_014713-w800-h600"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015292508_4_1_190521_014746-w800-h600"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015292508_5_1_190521_014746-w800-h600"
+        }
+      ],
+      "propertyDetails": {
+        "state": "VIC",
+        "features": [
+          "Ensuite",
+          "SwimmingPool",
+          "Gym",
+          "Intercom",
+          "Dishwasher"
+        ],
+        "propertyType": "House",
+        "allPropertyTypes": ["House"],
+        "bathrooms": 2.0,
+        "bedrooms": 3.0,
+        "unitNumber": "4404",
+        "streetNumber": "120",
+        "street": "A’Beckett Street",
+        "area": "Stonnington",
+        "region": "Melbourne Region",
+        "suburb": "MELBOURNE",
+        "postcode": "3000",
+        "displayableAddress": "4404/120 A’Beckett Street, Melbourne",
+        "latitude": -37.8094139,
+        "longitude": 144.959686
+      },
+      "headline": "First class location apartment that close to everything",
+      "summaryDescription": "<b></b><br />Spacious three bedroom apartment, each with mirrored BIR and mater bedroom with ensuite.\r\n\r\nOpen plan living and kitchen opens out to a large balcony.\r\n\r\nCutting-edge kitchen with dark mirror splash backs, dishwasher, stone bench tops, bui...",
+      "hasFloorplan": true,
+      "hasVideo": false,
+      "labels": [],
+      "inspectionSchedule": {
+        "byAppointment": true,
+        "recurring": false,
+        "times": []
+      },
+      "listingSlug": "4404-120-a-beckett-street-melbourne-vic-3000-2015292508"
+    }
+  }
+]

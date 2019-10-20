@@ -1,0 +1,8 @@
+{
+  "base": "https://api.domain.com.au",
+  "authBase": "https://auth.domain.com.au",
+  "sandbox": "/sandbox/v1",
+  "production": "/v1",
+  "locationSearch": "/listings/residential/_search",
+  "authScheme": "/connect/token"
+}
